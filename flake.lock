@@ -236,11 +236,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1668776216,
-        "narHash": "sha256-HLPPpSk4cf5i7ZiG+FHiqL6pZcTBjO5kByvMaUTRdK0=",
+        "lastModified": 1669431459,
+        "narHash": "sha256-a9piq+U0ZOVAorZNx8q6Jv4OPU8ec9LMzYhmqV/zr1E=",
         "owner": "nim-nix-pkgs",
         "repo": "wayland",
-        "rev": "1347ab2cf795ace006e55da2e0d93f8373156fb1",
+        "rev": "cfb387e165611c97bc49e9817d3c82258224a30d",
         "type": "github"
       },
       "original": {
